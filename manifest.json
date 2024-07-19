@@ -1,8 +1,8 @@
 {
   "repos": [
     {
-      "id": "nostrrelay",
-      "organisation": "lnbits",
+      "id": "nostrrelay2",
+      "organisation": "planetary-social",
       "repository": "nostrrelay"
     }
   ]
